@@ -1,0 +1,16 @@
+p {
+  color: blue;
+}
+
+#title-principal {
+  color: red;
+  border-style: dotted;
+}
+
+.border {
+    border: 5px solid;
+}
+
+img[src]{
+  border: 5px solid;
+}
